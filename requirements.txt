@@ -1,0 +1,13 @@
+# TURKI'S ADVANCED CYBER SECURITY SCANNER
+# Requirements for the main scanner
+# Developed by: Turki Alsalem
+
+# Core dependencies
+requests>=2.31.0
+urllib3>=1.26.0
+dnspython>=2.3.0
+python-whois>=0.8.0
+reportlab>=4.0.0
+
+# Optional dependencies for advanced features
+websocket-client>=1.6.0
