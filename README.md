@@ -73,7 +73,7 @@ Turki's Advanced Cyber Security Scanner is a comprehensive vulnerability assessm
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/turki-alsalem/cyber-security-scanner.git
+git clone https://github.com/oh50/cyber-security-scanner.git
 cd cyber-security-scanner
 ```
 
@@ -121,7 +121,7 @@ python cyber_security_scanner.py
 
 - **Developer:** Turki Alsalem
 - **Email:** turki.alsalem1@outlook.sa
-- **GitHub:** https://github.com/turki-alsalem/cyber-security-scanner
+- **GitHub:** https://github.com/oh50/cyber-security-scanner
 
 ## 🎯 **Recommended Usage**
 
@@ -142,5 +142,6 @@ python cyber_security_scanner.py
 **🔒 TURKI'S ADVANCED CYBER SECURITY SCANNER v3.0**  
 **🛡️ Ultimate Edition - All Rights Reserved © 2024**  
 **👨‍💻 Developed by: Turki Alsalem**
+
 
 *Empowering cybersecurity professionals with advanced vulnerability assessment tools.*
